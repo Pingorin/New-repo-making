@@ -1,2 +1,2 @@
 # info.py
-BOT_TOKEN = "यहां_अपना_BOT_TOKEN_पेस्ट_करें"
+BOT_TOKEN = "8470001883:AAHcaZgvdvdWnxGpgxrXp6KFBL3CVLhH0Js"
